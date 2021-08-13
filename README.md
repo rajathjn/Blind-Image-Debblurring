@@ -11,5 +11,5 @@ This repository contains our program files for blind image deblurring.
 
 ## Screenshots
 
-![alt text](Screenshots/5 working.png)
+![alt text](https://github.com/rajathjn/Blind-Image-Debblurring/blob/7663a10300aa0836fefaa832ba3e6912ff89eeb0/Screenshots/5%20working.png)
 ![alt text](https://github.com/rajathjn/Blind-Image-Debblurring/blob/4a907a39baf82cf4c75102a2ef7a19e404ca0cb6/Screenshots/Blind%20Deblurring.png)
